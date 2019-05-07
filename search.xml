@@ -3,12 +3,13 @@
   <entry>
     <title><![CDATA[电脑操作笔记整理]]></title>
     <url>%2F2019%2F05%2F07%2F%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86%2F</url>
-    <content type="text"><![CDATA[Part 1: 电脑操作笔记 Part 2: 安装在C盘上的软件 Part 3: 一些注册信息 Part 1: 电脑操作笔记1.1 开机锁屏页面没有密码输入框ctrl + alt + delete 1.2 Microsoft Office1.2.1 卸载office的方法 方法一：控制面板-右击选择“更改”再卸载，非直接卸载；（不确定是否可用） 方法二：安装Office Tool Plus，在这个工具里面卸载或者安装office；（安装后打不开，没有找解决办法） 不要轻易尝试官网中的手动卸载方法。 1.2.2 安装office的方法 安装和激活Office 2019 诶 后来在淘宝上购买了账号office 365： 激活账号：xl800@0xtz.a1p.me初始密码：zgStbAa2新密码：英文大小写+数字共计11位 直接登录账号在官网下载软件，一年后重新购买…（？一年后还是别的，再补充）用这个下载软件依旧可以用自己的Microsoft邮箱登录。 1.3 笔记本电脑重装系统之后 型号: Samsung NP500R5H-Y0A 1.3.1 部分快捷键失效 以Fn+F2调整屏幕亮度失效为例 将两个网页均看过一遍再操作：三星笔记本快捷键无法正常调节亮度怎么办？三星笔记本电脑无法调节屏幕亮度,如何解决? 1.3.2 右击没有Git Bash HereGit之右键没有Git Bash Here的解决办法 emmm…后来发现还是有问题滴，所以重新安装了node和git的安装包，打开运行后检查node和git的版本号，运行安装hexo，检查hexo和npm的版本号都ok；重新配置SSH Key；就可以部署成功啦~ ps：部署时报错了，问我是谁？？？？$ git config --global user.name &quot;lr-echoleee&quot;$ git config --global user.email &quot;liurui_sjtu@outlook.com&quot; Part 2: 安装在C盘上的软件 Chrome C:\Users\Echoleee\AppData\Local\Google\Chrome\Application谷歌浏览器默认都只能装在C盘，无法自定义安装路径…按照网上的教程试了，还是不行，只好就这样了qaq Microsoft office C:\Program Files\Microsoft Office\root\Office16安装了word/excel/powerpoint/outlook/skype/access/publisher Zotero 文献管理软件C:\Program Files (x86)\Zotero Hexo 用Git的命令运行，默认安装位置：C:\Users\Echoleee\AppData\Roaming\npm\hexo-&gt;C:\Users\Echoleee\AppData\Roaming\npm\node_modules\hexo-cli\bin\hexo Part 3: 一些注册信息3.1 软件or网站注册信息 CSDN博客 账号： Echoleee_密码： 暂无绑定手机： 1821729xxxx绑定微信： YN Github 第二次注册：账号： lr-echoleee密码： 英文小写+数字共计11位绑定邮箱： liurui_sjtu@outlook.com Algolia Research 账号： 用Github账号登录绑定邮箱： liurui98700@gmail.com 百度统计 账号： echoleee密码： 英文大小写+数字共计11位绑定手机： 1875060xxxx 坚果云 账号： liurui98700@gmail.com密码： 英文小写+数字共计11位 3.2 求职期间公司官网注册信息 深圳证券交易所 账号： 1875060xxxx密码： 英文小写+数字共计11位 安永 账号： liurui_sjtu@outlook.com密码： 英文小写+数字共计11位 普华永道 账号： liurui_sjtu@outlook.com密码： 英文小写+数字+“！”共计12位密保问题： 父亲全名Look Inside密码： 英文大小写+数字+“！”共计12位GUID密码（VPN）： 英文大小写+数字+“！”共计12位公司电脑开机密码/domain password： 1234567a ZS致盛咨询公司 账号： liurui_sjtu@outlook.com密码： 英文小写+数字共计11位]]></content>
+    <content type="text"><![CDATA[Part 1: 电脑操作笔记 Part 2: 安装在C盘上的软件 Part 3: 一些注册信息 Part 1: 电脑操作笔记1.1 开机锁屏页面没有密码输入框ctrl + alt + delete 1.2 Microsoft Office1.2.1 卸载office的方法 方法一：控制面板-右击选择“更改”再卸载，非直接卸载；（不确定是否可用） 方法二：安装Office Tool Plus，在这个工具里面卸载或者安装office；（安装后打不开，没有找解决办法） 不要轻易尝试官网中的手动卸载方法。 1.2.2 安装office的方法 安装和激活Office 2019 诶 后来在淘宝上购买了账号office 365： 激活账号：xl800@0xtz.a1p.me初始密码：zgStbAa2新密码：英文大小写+数字共计11位 直接登录账号在官网下载软件，一年后重新购买…（？一年后还是别的，再补充）用这个下载软件依旧可以用自己的Microsoft邮箱登录。 1.3 笔记本电脑重装系统之后 型号: Samsung NP500R5H-Y0A 1.3.1 部分快捷键失效 以Fn+F2调整屏幕亮度失效为例 将两个网页均看过一遍再操作：三星笔记本快捷键无法正常调节亮度怎么办？三星笔记本电脑无法调节屏幕亮度,如何解决? 1.3.2 右击没有Git Bash HereGit之右键没有Git Bash Here的解决办法 emmm…后来发现还是有问题滴，所以重新安装了node和git的安装包，打开运行后检查node和git的版本号，运行安装hexo，检查hexo和npm的版本号都ok；重新配置SSH Key；就可以部署成功啦~ ps：部署时报错了，问我是谁？？？？$ git config --global user.name &quot;lr-echoleee&quot;$ git config --global user.email &quot;liurui_sjtu@outlook.com&quot;诶 可以啦！ Part 2: 安装在C盘上的软件 Chrome C:\Users\Echoleee\AppData\Local\Google\Chrome\Application谷歌浏览器默认都只能装在C盘，无法自定义安装路径…按照网上的教程试了，还是不行，只好就这样了qaq Microsoft office C:\Program Files\Microsoft Office\root\Office16安装了word/excel/powerpoint/outlook/skype/access/publisher Zotero 文献管理软件C:\Program Files (x86)\Zotero Hexo 用Git的命令运行，默认安装位置：C:\Users\Echoleee\AppData\Roaming\npm\hexo-&gt;C:\Users\Echoleee\AppData\Roaming\npm\node_modules\hexo-cli\bin\hexo Part 3: 一些注册信息3.1 软件or网站注册信息 CSDN博客 账号： Echoleee_密码： 暂无绑定手机： 1821729xxxx绑定微信： YN Github 第二次注册：账号： lr-echoleee密码： 英文小写+数字共计11位绑定邮箱： liurui_sjtu@outlook.com Algolia Research 账号： 用Github账号登录绑定邮箱： liurui98700@gmail.com 百度统计 账号： echoleee密码： 英文大小写+数字共计11位绑定手机： 1875060xxxx 坚果云 账号： liurui98700@gmail.com密码： 英文小写+数字共计11位 3.2 求职期间公司官网注册信息 深圳证券交易所 账号： 1875060xxxx密码： 英文小写+数字共计11位 安永 账号： liurui_sjtu@outlook.com密码： 英文小写+数字共计11位 普华永道 账号： liurui_sjtu@outlook.com密码： 英文小写+数字+“！”共计12位密保问题： 父亲全名Look Inside密码： 英文大小写+数字+“！”共计12位GUID密码（VPN）： 英文大小写+数字+“！”共计12位公司电脑开机密码/domain password： 1234567a ZS致盛咨询公司 账号： liurui_sjtu@outlook.com密码： 英文小写+数字共计11位]]></content>
       <categories>
         <category>电脑操作笔记</category>
       </categories>
       <tags>
-        <tag>-技术贴 -好记性不如烂笔头</tag>
+        <tag>技术贴</tag>
+        <tag>好记性不如烂笔头</tag>
       </tags>
   </entry>
   <entry>
@@ -19,8 +20,8 @@
         <category>博客搭建</category>
       </categories>
       <tags>
-        <tag>博客搭建</tag>
         <tag>技术贴</tag>
+        <tag>博客搭建</tag>
       </tags>
   </entry>
   <entry>
@@ -31,8 +32,8 @@
         <category>博客搭建</category>
       </categories>
       <tags>
-        <tag>博客搭建</tag>
         <tag>技术贴</tag>
+        <tag>博客搭建</tag>
       </tags>
   </entry>
   <entry>
@@ -43,8 +44,8 @@
         <category>博客搭建</category>
       </categories>
       <tags>
-        <tag>博客搭建</tag>
         <tag>技术贴</tag>
+        <tag>博客搭建</tag>
       </tags>
   </entry>
 </search>
